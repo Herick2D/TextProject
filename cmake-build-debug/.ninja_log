@@ -1,0 +1,10 @@
+# ninja log v6
+19	1527	7669910522167180	CMakeFiles/TextProject.dir/src/RoomI.cpp.obj	8363e23331c262ed
+33	1533	7669910522318769	CMakeFiles/TextProject.dir/src/RoomIV.cpp.obj	1412e7dac0920e05
+24	1538	7669910522223518	CMakeFiles/TextProject.dir/src/RoomII.cpp.obj	583e1147e7952c0c
+15	1564	7669910522137031	CMakeFiles/TextProject.dir/src/Player.cpp.obj	ee2ed5ed0d372218
+28	1592	7669910522268629	CMakeFiles/TextProject.dir/src/RoomIII.cpp.obj	afca3ca8bf635b57
+38	1779	7669910522363968	CMakeFiles/TextProject.dir/src/RoomV.cpp.obj	f7acb1e71fd65b82
+10	2214	7669910522090218	CMakeFiles/TextProject.dir/src/Game.cpp.obj	9d732d7674b1c5eb
+5	3544	7669910522039819	CMakeFiles/TextProject.dir/main.cpp.obj	5605cc6398354459
+3546	3790	7669910557445536	TextProject.exe	34ee2bbb7aa6b48c
